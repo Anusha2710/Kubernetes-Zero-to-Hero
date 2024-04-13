@@ -13,8 +13,8 @@ K8s Supports - Cluster(group of nodes)
 
 pod- smallest level of deployment in k8s
 
-kubelet- creates pod and ensures pod is running, if pod is not running it informs to API server
-container runtime- runs container inside pod
-kubeproxy- provides networking, generates ip address and load balancing, uses ip tables on linus machines for n/w related configurations
+- kubelet- creates pod and ensures pod is running, if pod is not running it informs to API server
+- container runtime- runs container inside pod
+- kubeproxy- provides networking, generates ip address and load balancing, uses ip tables on linus machines for n/w related configurations
 
 
