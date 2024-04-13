@@ -23,4 +23,9 @@ pod- smallest level of deployment in k8s, used to run a container or group of co
 - controller manager- manager for k8s inbuilt controllers like relica sets are running or not
 - cloud controller manager- manages cluster resources into cloud providers like terraform
 
+minikube - cli for creating k8s cluster
+kubectl - cli for k8s
+
+>minikube start
+
 
