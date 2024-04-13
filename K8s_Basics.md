@@ -21,6 +21,6 @@ pod- smallest level of deployment in k8s
 - scheduler- schedules pods or resources on k8s
 - etcd - key value stores. stores all info of cluster
 - controller manager- manager for k8s inbuilt controllers like relica sets are running or not
-- cloud controller manager- manages cluster resources into cloud providers
+- cloud controller manager- manages cluster resources into cloud providers like terraform
 
 
